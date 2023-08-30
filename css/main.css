@@ -37,8 +37,48 @@ video {
   max-inline-size: 100%;
   block-size: auto;
   vertical-align: text-top;
+  display: block;
 }
 
 /* ====================================
 // base rules
 // ==================================== */
+
+.main-title {
+  background-color: #E7E7DB;
+}
+
+.logo
+
+.first-image {
+  border-top-style: solid;
+  border-top-width: 3px;
+  border-top-color: #DF0000;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-bottom-color: #DF0000;
+}
+
+hr {
+  color: #DF0000;
+}
+
+button {
+	display: flex;
+	align-items: center;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.starter-text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 21px;
+}
+
+
+.background-red {
+  background-color: #DF0000;
+  width: 100%;
+}
