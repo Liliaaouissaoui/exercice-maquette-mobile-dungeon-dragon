@@ -45,40 +45,43 @@ video {
 // ==================================== */
 
 .main-title {
-  background-color: #E7E7DB;
+  background-color: #e7e7db;
 }
 
-.logo
-
-.first-image {
+.logo .first-image {
   border-top-style: solid;
   border-top-width: 3px;
-  border-top-color: #DF0000;
+  border-top-color: #df0000;
   border-bottom-style: solid;
   border-bottom-width: 3px;
-  border-bottom-color: #DF0000;
+  border-bottom-color: #df0000;
 }
 
-hr {
-  color: #DF0000;
+.LivreDeRef {
+  width: 300px;
+  height: auto;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
 }
 
 button {
-	display: flex;
-	align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 p {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .starter-text {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 21px;
 }
 
-
 .background-red {
-  background-color: #DF0000;
+  background-color: #df0000;
   width: 100%;
+  padding: 20px;
+}
+
+img {
 }
